@@ -1,0 +1,6 @@
+This repository has samples for the use of:
+- ngRoutes
+- Services
+- Factories
+
+Made with angular
